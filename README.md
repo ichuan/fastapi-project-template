@@ -10,7 +10,7 @@ Includes:
 
 ```sh
 mkdir hello_world && cd hello_world
-wget https://github.com/ichuan/fastapi-project-template/archive/master.tar.gz -O - | tar --strip-components 1  -xf -
+wget https://github.com/ichuan/fastapi-project-template/archive/main.tar.gz -O - | tar --strip-components 1  -xf -
 # Choose a name for your fastapi project (package)
 bash bootstrap.sh
 ```
